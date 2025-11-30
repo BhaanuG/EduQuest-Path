@@ -1,8 +1,7 @@
 
   # EduQuest Path
 
-  This is a code bundle for EduQuest Path. The original project is available at https://www.figma.com/design/rNdzzsgdQ36f128jSE77ea/EduQuest-Path.
-
+  This is a code bundle for EduQuest Path. Designed By G Bhaanu Sai
   ## Running the code
 
   Run `npm i` to install the dependencies.
